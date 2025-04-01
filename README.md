@@ -29,7 +29,7 @@
 
 ---
 
- ### 🏆 [Gold Price Prediction](https://github.com/sejalhadke/gold-price-prediction)  
+ ### 🏆 [Gold Price Prediction](https://github.com/sejalhadke/Gold-Price-Prediction)  
 📌 **Description:** Forecasted gold prices for 30 days using time series models.  
 📌 **Tech Stack:** Python, Machine Learning (ARIMA, LSTM, FB-Prophet), Streamlit  
 📌 **Key Insights:**  
